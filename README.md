@@ -1,6 +1,6 @@
 [![license-badge][]][license] ![version] [![stars][]][stargazers]
 
-#Microchip MCP4725
+# Microchip MCP4725
 
 This is an Arduino library for I²C MCP4725 12-bit Digital-to-Analog Converter with EEPROM
 
