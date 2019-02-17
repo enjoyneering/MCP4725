@@ -1,0 +1,54 @@
+#######################################
+# Syntax Coloring Map MCP4725
+#######################################
+
+#######################################
+# Datatypes	(KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions	(KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+
+setReferenceVoltage	KEYWORD2
+getReferenceVoltage	KEYWORD2
+
+setValue	KEYWORD2
+setVoltage	KEYWORD2
+
+getValue	KEYWORD2
+getVoltage	KEYWORD2
+getStoredValue	KEYWORD2
+getStoredVoltage	KEYWORD2
+
+getPowerType	KEYWORD2
+getStoredPowerType	KEYWORD2
+
+reset	KEYWORD2
+wakeUP	KEYWORD2
+
+
+#######################################
+# Instances	(KEYWORD2)
+#######################################
+MCP4725	KEYWORD1
+
+#######################################
+# Constants	(LITERAL1)
+#######################################
+
+MCP4725_FAST_MODE	LITERAL1
+MCP4725_REGISTER_MODE	LITERAL1
+MCP4725_EEPROM_MODE	LITERAL1
+
+MCP4725_POWER_DOWN_OFF	LITERAL1
+MCP4725_POWER_DOWN_1KOHM	LITERAL1
+MCP4725_POWER_DOWN_100KOHM	LITERAL1
+MCP4725_POWER_DOWN_500KOHM	LITERAL1
+
+MCP4725_DISABLE_SANITY_CHECK	LITERAL1
+
+MCP4725_MAX_VALUE	LITERAL1
+MCP4725_ERROR	LITERAL1
