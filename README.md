@@ -1,4 +1,4 @@
-[![license-badge][]][license] ![version] [![stars][]][stargazers]
+[![license-badge][]][license] ![version] [![stars][]][stargazers] [![GitHub issues][]][issues]
 
 # Microchip MCP4725
 
@@ -35,8 +35,10 @@ Tested on:
 
 ** Library returns 65535 if there is a communication error on the I²C bus
 
+[license-badge]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [license]:       https://choosealicense.com/licenses/gpl-3.0/
-[license-badge]: https://img.shields.io/aur/license/yaourt.svg
 [version]:       https://img.shields.io/badge/Version-1.0.0-green.svg
 [stars]:         https://img.shields.io/github/stars/enjoyneering/MCP4725.svg
 [stargazers]:    https://github.com/enjoyneering/MCP4725/stargazers
+[GitHub issues]: https://img.shields.io/github/issues/enjoyneering/MCP4725.svg
+[issues]:        https://github.com/enjoyneering/MCP4725/issues/
