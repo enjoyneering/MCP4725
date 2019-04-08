@@ -121,7 +121,7 @@ MCP4725_READ_TYPE;
 #define MCP4725_EEPROM_WRITE_TIME    25                           //non-volatile memory write time, maximum 50 msec
 
 #define MCP4725_REFERENCE_VOLTAGE    5.00                         //supply-reference votltage
-#define MCP4725_MAX_VALUE            MCP4725_STEPS - 1
+#define MCP4725_MAX_VALUE            ((MCP4725_STEPS) - 1)
 #define MCP4725_ERROR                0xFFFF                       //returns 65535, if communication error is occurred
 
 
